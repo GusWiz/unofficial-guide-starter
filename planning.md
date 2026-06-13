@@ -11,6 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+I choose Student reviews of CS professors at Texas State University for beginner courses. It can be very tedious to find information about professors and their teaching methods through official channels, so this tool can help students make informed decisions about which professors to take.
 ---
 
 ## Documents
@@ -20,7 +21,7 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
+| 1 | Rate My Professor | Professor reviews for Texas State University | https://www.ratemyprofessors.com/professor/2831104 |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |

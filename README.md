@@ -14,7 +14,37 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+Student reviews of CS professors at Texas State University for beginner courses (Course levels range from 1000 - 2000, indicating 1st year and 2nd year courses). Which is useful as it is difficult to know what to expect from certain professors base on course description and syllabus alone. Since all professors teaching methods are different. They can also have no recent reviews, so the best way of knowing would be too look at reviews from recent students, or at least some reviews within the last 5 years. 
+
+Courses covered:
+CS1428 
+FOUNDATIONS OF COMPUTER SCI I
+CS2308
+FOUNDATNS OF CS II
+CS2315
+COMPUTER ETHICS
+CS2318
+ASSEMBLY LANG
+
+Course + Professors:
+CS1428 : Dr. Xiaomin Li, Dr. David Patrick, Dr. Jill Seaman, Dr. Edwin Vargas-Garzon, Dr. Ziliang Zong
+CS2308 : Dr. Keshav Bhandari, Dr. Oleg Komogortsev, Dr. Xiaomin Li, Dr. David Patrick, Dr. Jill Seaman, Dr. Ziliang Zong, Dr. Tanzima Islam
+CS2315: Dr. Vicki L Almstrum, Dr. Veronica Perez-Rosas, Dr. Jishnu Banerjee, Dr. Vasant C. Ramkumar
+CS2318: Charles Rick King, Dr. Lee Koh
 ---
+
+## Professor json structure
+
+{
+    "Professor": "Name",
+    "Courses": ["course", "..."],
+    "Reviews": [
+        {
+            "Course": "course name",
+            "reviews": ["review1", "review2", "..."]
+        }
+    ]
+}
 
 ## Document Sources
 
@@ -24,8 +54,8 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
+| 1 | TXST Database with syllabus and student percentions| Syllabus File | https://hb2504.txst.edu/viewcourse.html#CS1428|
+| 2 |  | | |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
