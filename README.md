@@ -31,20 +31,36 @@ CS1428 : Dr. Xiaomin Li, Dr. David Patrick, Dr. Jill Seaman, Dr. Edwin Vargas-Ga
 CS2308 : Dr. Keshav Bhandari, Dr. Oleg Komogortsev, Dr. Xiaomin Li, Dr. David Patrick, Dr. Jill Seaman, Dr. Ziliang Zong, Dr. Tanzima Islam
 CS2315: Dr. Vicki L Almstrum, Dr. Veronica Perez-Rosas, Dr. Jishnu Banerjee, Dr. Vasant C. Ramkumar
 CS2318: Charles Rick King, Dr. Lee Koh
+
+Professor that teach CS1428 and CS2308 are in the professor.json
+Professors that teach CS2315 are in the professor2.json
+Professor that teach CS2318 are in the professor3.json
 ---
 
 ## Professor json structure
 
-{
-    "Professor": "Name",
-    "Courses": ["course", "..."],
-    "Reviews": [
-        {
-            "Course": "course name",
-            "reviews": ["review1", "review2", "..."]
-        }
-    ]
-}
+
+[
+    {
+        "professor_name": "----",
+        "courses_taught": [
+            "---"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "---",
+                "reviews": [
+                    {
+                        "rating" : 0.0,
+                        "difficulty" : 0.0,
+                        "text" : "Review of Professor goes here"
+                    }
+                ]
+            }
+        ]
+    }
+]
+*The rating and difficult scale goes from 1 to 5, where 1 is the worst and 5 is the best.
 
 ## Document Sources
 
