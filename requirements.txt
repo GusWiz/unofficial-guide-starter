@@ -1,4 +1,4 @@
-sentence-transformers==3.4.1
+sentence-transformers==3.4.1 # Used for embedding using all-MiniLM-L6-v2
 chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1

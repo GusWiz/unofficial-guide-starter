@@ -416,5 +416,43 @@
                 ]
             }
         ]
+    },
+    {
+        "professor_name": "Keshav Bhandari",
+        "courses_taught": [
+            "CS2308"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2308",
+                "reviews": [
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Dont ever take this class. Worst experience of my life. I just sat in class and learned nothing. The instructor teaches incorrectly and provides no proper guidance. Most of the students seem confused about what is being taught, and it feels like the instructor does not fully understand the material."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Lectures are badly structured and exam questions are beyond scope of lectures."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Exam questions were just too much and was made in a way to go beyond what was taught in class."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Lectures were amazing. Exams were just extremely hard and few unexpected questions in the test which was not brought up in lectures."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Attended all classes, did every assignment, yet I'm at risk of a poor grade. His teaching lacks structure, repeats topics, jumps randomly, and tests on unrelated hard material. After exam 2, feels like he expects cheating. Regret taking the course; being honest gets you a B/ C at best without cheating. Big NO, would never take his class again."
+                    }
+                ]
+            }
+        ]
     }
 ]

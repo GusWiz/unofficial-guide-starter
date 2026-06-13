@@ -1,0 +1,138 @@
+{
+    "Professor1": "Xiaomin Li",
+    "Courses": ["CS1428", "CS2308"],
+    "Reviews": [
+        {
+            "Course": "CS1428",
+            "reviews": []
+        },
+        {
+            "Course": "CS2308",
+            "reviews": [
+                        {
+                            "rating": 1.0, 
+                            "difficulty": 4.0, 
+                            "review": "Releases assignments at the conclusion of a topic vs. at the beginning or in the middle, so you will not have adequate practice while learning. Lecture slides miss important details and are almost always out of context. Lecture is a tremendous waste of time. If she is your professor, it means you are going to teach yourself.",
+                        }, 
+                        {
+                            "rating": 1.0, 
+                            "difficulty": 4.0, 
+                            "review": "Obviously a new teacher. Lecture slides aren't useful, and had to teach myself. If you have little prior coding knowledge, class will be tough. Midterm had random questions and asked us to write code that we hadn't practiced yet. She gave us a quiz to make up that part. You'll be quizzed over material before the practice assignment for it opens."
+                        },
+                        {
+                            "rating": 4.0, 
+                            "difficulty": 2.0, 
+                            "review": "Professor is very willing to listen and work with you if you put in the effort. You will have to learn more stuff outside of class on your own for the assignments but that's expected. She makes it very clear for material she will be covering and what you are expected to master for quizzes and tests."
+                        },
+                        {
+                            "rating": 4.0,
+                            "difficulty": 3.0, 
+                            "review": "Overall okay professor. Accent can make things hard to understand sometimes but not an issue if you just pay extra attention. Lecture slides are concise and to the point. Nice and willing to help. Criteria for the homework can be a little vague but usually will grade in your favor rather than against. You'll be fine if you take CS2308 with her."
+                        },
+                        {
+                            "rating": 4.0,
+                            "difficulty": 3.0, 
+                            "review": "Decent for a new professor. I had prior CS experience so the course wasn't bad for me, but I'm not sure about others. Tests are open-book. Slides conveyed topics pretty well, but you might have do research on your own. Assignments were a bit hard to follow but she might grade in your favor. Overall, I feel that she'll be a good prof in the future!"
+                        },
+                        {
+                            "rating": 4.0,
+                            "difficulty": 2.0, 
+                            "review": "Dr. Li is a very nice lady who cares about her students. The class mainly focused on learning the basics of java, then the second half is dedicated to making a project using the knowledge you have. She is a very fair grader and will always answer any questions you have."
+                        },
+                        {
+                            "rating": 3.0,
+                            "difficulty": 3.0, 
+                            "review": "She's a sweet caring lady, but could be a better professor. The class isn't too bad as long as you do your assignments ahead, & study."
+                        }
+                        ]
+        }
+    ],
+    "Professor": "David Patrick",
+    "Courses": ["CS1428", "CS2308"],
+    "Reviews": [
+        {
+            "Course": "CS1428",
+            "reviews": [
+                        {
+                            "rating": 1.0, 
+                            "difficulty": 4.0, 
+                            "review": "Releases assignments at the conclusion of a topic vs. at the beginning or in the middle, so you will not have adequate practice while learning. Lecture slides miss important details and are almost always out of context. Lecture is a tremendous waste of time. If she is your professor, it means you are going to teach yourself.",
+                        }, 
+                        {
+                            "rating": 1.0, 
+                            "difficulty": 4.0, 
+                            "review": "Obviously a new teacher. Lecture slides aren't useful, and had to teach myself. If you have little prior coding knowledge, class will be tough. Midterm had random questions and asked us to write code that we hadn't practiced yet. She gave us a quiz to make up that part. You'll be quizzed over material before the practice assignment for it opens."
+                        },
+                        {
+                            "rating": 4.0, 
+                            "difficulty": 2.0, 
+                            "review": "Professor is very willing to listen and work with you if you put in the effort. You will have to learn more stuff outside of class on your own for the assignments but that's expected. She makes it very clear for material she will be covering and what you are expected to master for quizzes and tests."
+                        },
+                        {
+                            "rating": 4.0,
+                            "difficulty": 3.0, 
+                            "review": "Overall okay professor. Accent can make things hard to understand sometimes but not an issue if you just pay extra attention. Lecture slides are concise and to the point. Nice and willing to help. Criteria for the homework can be a little vague but usually will grade in your favor rather than against. You'll be fine if you take CS2308 with her."
+                        },
+                        {
+                            "rating": 4.0,
+                            "difficulty": 3.0, 
+                            "review": "Decent for a new professor. I had prior CS experience so the course wasn't bad for me, but I'm not sure about others. Tests are open-book. Slides conveyed topics pretty well, but you might have do research on your own. Assignments were a bit hard to follow but she might grade in your favor. Overall, I feel that she'll be a good prof in the future!"
+                        },
+                        {
+                            "rating": 4.0,
+                            "difficulty": 2.0, 
+                            "review": "Dr. Li is a very nice lady who cares about her students. The class mainly focused on learning the basics of java, then the second half is dedicated to making a project using the knowledge you have. She is a very fair grader and will always answer any questions you have."
+                        },
+                        {
+                            "rating": 3.0,
+                            "difficulty": 3.0, 
+                            "review": "She's a sweet caring lady, but could be a better professor. The class isn't too bad as long as you do your assignments ahead, & study."
+                        }
+                        ]
+        },
+        {
+            "Course": "CS2308",
+            "reviews": ["review1", "review2", "..."]
+        }
+    ], 
+    "Professor": "Jill Seaman",
+    "Courses": ["CS1428", "CS2308"],
+    "Reviews": [
+        {
+            "Course": "CS1428",
+            "reviews": ["review1", "review2", "..."]
+        },
+        {
+            "Course": "CS2308",
+            "reviews": ["review1", "review2", "..."]
+        }
+    ],
+    "Professor": "Edwin Vargas-Garzon",
+    "Courses": ["CS1428"],
+    "Reviews": [
+        {
+            "Course": "CS1428",
+            "reviews": ["review1", "review2", "..."]
+        }
+    ],
+    "Professor": "Ziliang Zong",
+    "Courses": ["CS1428", "CS2308"],
+    "Reviews": [
+        {
+            "Course": "CS1428",
+            "reviews": ["review1", "review2", "..."]
+        },
+        {
+            "Course": "CS2308",
+            "reviews": ["review1", "review2", "..."]
+        }
+    ],
+    "Professor": "Tanzima Islam",
+    "Courses": ["CS2308"],
+    "Reviews": [
+        {
+            "Course": "CS2308",
+            "reviews": ["review1", "review2", "..."]
+        }
+    ],
+}
