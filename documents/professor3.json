@@ -1,0 +1,83 @@
+[
+    {
+        "professor_name": "Charles Rick King",
+        "courses_taught": [
+            "CS2318"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2318",
+                "reviews": [
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "This prof is probably the of the best ones in the CS department, a lot better than Koh, all you have to do is study ahead of time, get help if u need it, and he offers a bunch of extra credit and that can save a lot of GPAs"
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 2.0,
+                        "text": "1 Midterm, 1 Final, lots of assignments and no group project. If you keep attendance perfect and do all the assignments and extra credit opportunities you will for sure pass. Professor is chill so I do recommend taking his class."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "1 Midterm, 1 Final, lots of extra credit opportunity. No group projects! If you keep a perfect attendance and do all the assignments you are guaranteed a pass."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "I enjoyed Rick's class a lot - he gives you a lot of opportunities to learn, and breaks down concepts in an effective way. Though, I did not enjoy having this class at 8 am. He can be a bit dry in lecture, but the material does move fast so it wasn't a problem. He has multiple lab/review days a semester with open questions/topic discussion."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "King is really good at explaining the material and making breaking it down into simpler concepts. He gives a bunch of extra credit assignments that can easily boost your grade, and he's also lenient on grading. He's really friendly, good at answering questions, and open to helping his students."
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 3.0,
+                        "text": "He's dry in lecture, but very helpful with assignments and questions. Grading is fair, with lots of extra credit, spaced out due dates, lenient grading, and specifying exam questions. He's more grounded than most profs. Getting used to assembly can be rough, but the course is well-structured, so studying pays off. He clearly wants us to succeed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "professor_name": "Lee Koh",
+        "courses_taught": [
+            "CS2318"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2318",
+                "reviews": [
+                    {
+                        "rating": 1.0,
+                        "difficulty": 4.0,
+                        "text": "I found Dr. Koh's lectures very boring and tiring. He does not speak very clearly and I really don't see much enthusiasm in his class. He just uses some rly old slides he's been using since ages and expects us to go through all of those rly long, unconcise slides. There are 3 tests that determine your grade, so it's a do-or-die sorta scenario."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Would not recommend at all. He is a chill guy but the course is not structured properly. He gives a lot in description and you kinda get lost trying to follow it. He provides exam sample test but the actual exam is nothing like it. Learnt more from youtube than his lectures."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Almost impossible to understand him speak. Homeworks have confusing instructions, he grades tough, and the exams are way harder than what we practice. Not recommended unless you're ready to teach yourself the whole class."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Terrible terrible professor. If you are really passionate about computer science, be prepared you will change your mind after attending his lectures. It's hard to follow him. The notes he provides are terribly organized. ***AVOID HIM AT ANY COST*****"
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 4.0,
+                        "text": "You need to dedicate a lot of time to teaching yourself this course in Koh's class. His lectures are loosely structured and incredibly hard to follow. He has thick accent and fluctuates his volume. He will be explaining important information at a mumble. His notes are frustrating to look through b/c it's organized poorly w/ zip files. Good luck."
+                    }
+                ]
+            }
+        ]
+    }
+]

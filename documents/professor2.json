@@ -1,0 +1,112 @@
+[
+    {
+        "professor_name": "Vicki Almstrum",
+        "courses_taught": [
+            "CS2315"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2315",
+                "reviews": [
+                    {
+                        "rating": 3.0,
+                        "difficulty": 3.0,
+                        "text": "She's flexible and willing to help with scheduling issues. A sweet professor but, the class is a lot of work. There's too many assignments and projects, it's unrealistic. You will be drowning in schoolwork. Luckily, I wouldn't say the content is difficult. She also does track attendance with codes. I would suggest taking this class online."
+                    },
+                    {
+                        "rating": 2.0,
+                        "difficulty": 4.0,
+                        "text": "The course had too much to cover in each class time, so class meetings usually felt rushed. Every class time included group work. The groups were randomly assigned. There were a lot of assignments throughout the semester, so try to avoid procrastinating so you can keep up. None of the material individually was incredibly difficult, just the volume."
+                    },
+                    {
+                        "rating": 2.0,
+                        "difficulty": 2.0,
+                        "text": "Yeah, this definitely didn't feel like a 3-credit course. I took 3 credits less this semester and I still felt stressed out. However, Dr. Almstrum is generous with grading as long as you show that you *try* to do the work. Therefore, get ready to read, do quizzes, take-home exams, a group presentation, and a 10-page paper on a topic of your choice."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Dr. Almstrum doesn't realize this course is 3 credit hours NOT 9 credit hours. Extreme writing intensive, take-home exams, 2x quizzes each week, midterms, final, presentation, research term paper and many more. She likes to over-complicate simple things & will drain your time, energy and weekends. DO NOT TAKE her class- coming from a 3.93 gpa guy."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 2.0,
+                        "text": "She seems to care for the students but the courseload given is extremely overbearing and is constant homework or group quizzes. Little time is given in class to work on your assignments even though she wants them to be completed in class. I highly recommend avoiding if possible, it is easy to pass just very irritating. There is also so much writing"
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 3.0,
+                        "text": "She is a good professor and does care about you understanding the material and the assignments, but there is way too much work to be done. She makes extremely detailed description for your attendance, assignments, and paper, it's just doing too much. The class itself is incredibly easy, just make sure to write a lot & do everything early."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "professor_name": "Veronica Perez-Rosas",
+        "courses_taught": [
+            "CS2315"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2315",
+                "reviews": []
+            }
+        ]
+    },
+    {
+        "professor_name": "Jishnu Banerjee",
+        "courses_taught": [
+            "CS2315"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2315",
+                "reviews": []
+            }
+        ]
+    },
+    {
+        "professor_name": "Vasant Ramkumar",
+        "courses_taught": [
+            "CS2315"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2315",
+                "reviews": [
+                    {
+                        "rating": 5.0,
+                        "difficulty": 2.0,
+                        "text": "Can be a bit vague about bigger assignments but his lectures are great. He gets bored teaching from powerpoints so he expects students to read them before class and goes through the slides loosely. Lectures are more engaging this way. Exams aren't hard either."
+                    },
+                    {
+                        "rating": 3.0,
+                        "difficulty": 1.0,
+                        "text": "Overall an easy class. Tried to make you get the big picture, which was sometimes difficult. He does care for his students, and will go out of his way to help you (even thou the content doesn't make sense half the time). I find it hard to learn from him, but I can see how lots of people enjoy his lectures. Just doesn't fit my learning style."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 1.0,
+                        "text": "Class is an easy A, TAKE HIM IF YOU CAN! Exam reviews are detailed. If you attend class and listen to the reviews you'd for sure pass the exam! there are group projects, and if you show up for class and you don't receive the final grade you want he is willing to work with you. Took him for computer ethics and loved it!"
+                    },
+                    {
+                        "rating": 2.0,
+                        "difficulty": 1.0,
+                        "text": "This dude literally reads off slides every day. Do not waste your time by letting someone read you slides for an hour and a half. Also, he is very behind on modern technology, and provides examples that are 20 - 30 years too old to be applicable today."
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 3.0,
+                        "text": "good professor that has experience working in the field. Its an easy A if you pay attention to the course"
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 1.0,
+                        "text": "One of the most boring and terrible classes I've ever taken. Still, it's easy enough that you can skip most lectures and just pick the obvious answers on exams and you'll do fine. If you've taken any other ethics or communications classes at Texas State, you've basically already taken this class."
+                    }
+                ]
+            }
+        ]
+    }
+]
