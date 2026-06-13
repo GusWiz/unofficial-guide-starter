@@ -1,0 +1,420 @@
+[
+    {
+        "professor_name": "Xiaomin Li",
+        "courses_taught": [
+            "CS1428",
+            "CS2308"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS1428",
+                "reviews": [
+                    {}
+                ]
+            },
+            {
+                "course_id": "CS2308",
+                "reviews": [
+                    {
+                        "rating": 1.0,
+                        "difficulty": 4.0,
+                        "text": "Releases assignments at the conclusion of a topic vs. at the beginning or in the middle, so you will not have adequate practice while learning. Lecture slides miss important details and are almost always out of context. Lecture is a tremendous waste of time. If she is your professor, it means you are going to teach yourself."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 4.0,
+                        "text": "Obviously a new teacher. Lecture slides aren't useful, and had to teach myself. If you have little prior coding knowledge, class will be tough. Midterm had random questions and asked us to write code that we hadn't practiced yet. She gave us a quiz to make up that part. You'll be quizzed over material before the practice assignment for it opens."
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 2.0,
+                        "text": "Professor is very willing to listen and work with you if you put in the effort. You will have to learn more stuff outside of class on your own for the assignments but that's expected. She makes it very clear for material she will be covering and what you are expected to master for quizzes and tests."
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 3.0,
+                        "text": "Overall okay professor. Accent can make things hard to understand sometimes but not an issue if you just pay extra attention. Lecture slides are concise and to the point. Nice and willing to help. Criteria for the homework can be a little vague but usually will grade in your favor rather than against. You'll be fine if you take CS2308 with her."
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 3.0,
+                        "text": "Decent for a new professor. I had prior CS experience so the course wasn't bad for me, but I'm not sure about others. Tests are open-book. Slides conveyed topics pretty well, but you might have do research on your own. Assignments were a bit hard to follow but she might grade in your favor. Overall, I feel that she'll be a good prof in the future!"
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 2.0,
+                        "text": "Dr. Li is a very nice lady who cares about her students. The class mainly focused on learning the basics of java, then the second half is dedicated to making a project using the knowledge you have. She is a very fair grader and will always answer any questions you have."
+                    },
+                    {
+                        "rating": 3.0,
+                        "difficulty": 3.0,
+                        "text": "She's a sweet caring lady, but could be a better professor. The class isn't too bad as long as you do your assignments ahead, & study."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "professor_name": "David Patrick",
+        "courses_taught": [
+            "CS1428",
+            "CS2308"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS1428",
+                "reviews": [
+                    {
+                        "rating": 5.0,
+                        "difficulty": 1.0,
+                        "text": "I love his teaching style. He is an excellent teacher. He uses ZyBook for course materials which can be also used for practice. He cares a lot about student, and he is very approachable. His assignments are easy and systematic, and grade only depends on whether you complete them or not in time. He gives extra credit and partial credit in exams."
+                    },
+                    {
+                        "rating": 2.0,
+                        "difficulty": 4.0,
+                        "text": "okay imma keep it REAL, he wasnt all that if you have the option for a diff prof do that. he wasn't horrible but honestly 70% of the stuff you have to learn is SELF TAUGHT and on an online text book. lectures were SO boring and kinda hard to understand. but he is there to help if you ask. we did get a cheat sheet front and back on each test tho."
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 2.0,
+                        "text": "If you're lazy expect to fail. This class does require your attention and for the textbook which is zybooks to be read, not only does it expand on the lectures in class but it provides a deeper understanding on the material. Attendance is not required but would recommend to someone with no prior C++ knowledge."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "Had him as a first-time professor and he was phenomenal! He was ready for any constructive feedback and was super helpful during his office hours. Most of what we did was through ZyBooks, but I would recommend going to the lectures because he often gave extra info that was on the tests. All in all, he is a great professor!"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 1.0,
+                        "text": "he's really engaging and explains things very clearly. be sure to complete the bookwork on time. overall a great teacher, he gives an amazing introduction to c++. definitely take his class!"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 2.0,
+                        "text": "Go to the lectures, do the homework and show up on test day. Youll be entirely fine if you do those 3 things"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "amazing professor"
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 3.0,
+                        "text": "Large Scale Programs were heavy for an Intro class."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 5.0,
+                        "text": "I loved him honestly. I only got a C+ because the subject was just really hard in my opinion. Most people get an A im pretty sure. Lectures were helpful and there was only 2 tests. He makes Computer science really enjoyable even though it's difficult. Do the homework, and show up and you'll do great im sure. Definitely recommend."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "Attendance is optional, he lets us have one page cheat sheets (as far as this year) for tests including the final, as long as you go to office hours and try your best you'll do great in the course. Don't miss SP's they can add up and affect your grade negatively. He does not extend deadlines so be aware of them. (unless you have extreme circums.)"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 1.0,
+                        "text": "Professor Patrick is exceptional! His teaching style is engaging & crystal clear. He injects humor into lectures, making learning enjoyable. Extra credit opportunities show his dedication. Always responsive, caring, & quick to reply. Makes CS 1428 easy & fun!"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 1.0,
+                        "text": "Good prof. Had him a couple of semesters ago. As long as you attend class, pay attention and do the homework, you shouldn't have any trouble getting an A. If you are having trouble he makes it easy to ask him any and all questions you may have and clears up confusion inside and outside of class."
+                    },
+                    {
+                        "rating": 3.0,
+                        "difficulty": 4.0,
+                        "text": "New professor but knowledgeable enough to help you out with any questions you have. The large scale programs are pretty difficult though so beware of those."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 1.0,
+                        "text": "Easy class, great teacher"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "He is a great professor! The LSP were pretty tough but go to his office hours and he will be more than happy to help you. Lectures were engaging. Although did feel a little rushed since class was only 50 minutes long. On exams we were allowed a one page cheat sheet. I recommend."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "I've been able to follow along and learn a lot in his class. You get plenty of time for assignments and the online textbook makes learning code easier. The lectures were good, not too much information at once and his completed notes are the most helpful resource ever. Will be taking him again for CS2308"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "Never touched c++ and only lightly followed youtube videos prior to this class. I was worried to take this major due to my lack of experience and learning curve. I can confidently say I am very proud of how far ive come and the concepts were very clearly communicated, good professor."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 2.0,
+                        "text": "As a new computer science major, I'm really glad I took this professor. He's kind, helpful, and explains code in a way everyone can understand instead of just reading slides. Projects make up most of the grade, do well on them and you'll be fine. Got an A on my first exam. He also helps with lab code so thats great!!!!. Great teacher for beginners."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "show up and you should pass but some difficult assignments"
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 2.0,
+                        "text": "exam grades are a U-curve because you either get it or you don't, many A's, equal amount of F's, he makes the class REALLY easy if you actually try, easier than any calc class, start simulation programs the day of and dont use GPT as a crutch"
+                    }
+                ]
+            },
+            {
+                "course_id": "CS2308",
+                "reviews": [
+                    {
+                        "rating:": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Avoid taking this instructor if you have little to no coding experience. He's a nice person, but he assumes you already know a lot. His teaching style mostly involves coding in Zybooks during class rather than explaining concepts in depth."
+                    },
+                    {
+                        "rating:": 1.0,
+                        "difficulty": 5.0,
+                        "text": "Avoid this class if you lack coding experience. In lectures, he rapidly works through coding problems in Zybooks, making it hard to follow. Additionally, he assigns complex, lengthy programs as if you're already a software engineer."
+                    },
+                    {
+                        "rating:": 5.0,
+                        "difficulty": 4.0,
+                        "text": "Great professor. The lectures were incredibly good. He knows how to deliver a difficult programming concept using clever analogies that make everything clear. The programs are challenging but rewarding. The pace feels rushed at some points but if you're doing your research outside of class and doing the zybooks you'll be good."
+                    },
+                    {
+                        "rating:": 5.0,
+                        "difficulty": 4.0,
+                        "text": "He was very chill. Lots of major programs though which can be hard, but it is manageable. I found him easy to talk to, and willing to help. He explains the lectures very well, though he can move a bit quickly. Great resources too."
+                    },
+                    {
+                        "rating:": 1.0,
+                        "difficulty": 5.0,
+                        "text": "He already assumes you're a software engineer because the programs he will make you do are not possible for someone without previous experience in those programs. Not a bad guy, helpful, and tries to make students understand the concepts, but very fast-paced, and the explanation isn't great."
+                    },
+                    {
+                        "rating:": 3.0,
+                        "difficulty": 4.0,
+                        "text": "Lectures went really fast for me, I didn't enjoy it cause I couldn't track lectures too well. However he is a great guy and knew his content, I just got really confused. I thought the programs we had to write were pretty difficult, however the material is pretty difficult if you don't know what you are doing."
+                    },
+                    {
+                        "rating:": 5.0,
+                        "difficulty": 2.0,
+                        "text": "Awesome professor. Gives good exams and grades perfectly. Would recommend taking both of this Foundations of Computer Science courses as I did."
+                    },
+                    {
+                        "rating:": 1.0,
+                        "difficulty": 5.0,
+                        "text": "he is not good.."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "professor_name": "Jill Seaman",
+        "courses_taught": [
+            "CS1428",
+            "CS2308"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS1428",
+                "reviews": [
+                    {
+                        "rating": 5.0,
+                        "difficulty": 4.0,
+                        "text": "Dr. Seaman is great but her class is full of ups and downs. she is a fair grader and gives opportunities for her student to perform well in her test. The first 3 test is 20% if your grade. The final is 20%. Make sure you attend SI sections, practice your zy books, and do your homework you would do well. The class was tough as a beginner in coding."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 2.0,
+                        "text": "Very great professor. Does give monotonous lectures but it's fine. Tests are exactly like homework/top hat questions. She's super understanding about missing exams. Will be taking her again for foundations of comp sci II!"
+                    },
+                    {
+                        "rating": 2.0,
+                        "difficulty": 5.0,
+                        "text": "Could ease up on grading, really traditional with exams, it's 2025 for god's sake. Knows how to teach stuff well but please ease up on homework patterns and closed book exams suck. Very unwelcoming to students with questions. Does not care about students' doubts. Super monotonous lectures."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 4.0,
+                        "text": "Great professor, never took CS before this, and I thrived with this prof. Of course, it was challenging, but there were things in place for student success. Test were very fair in my opinion. Assignments consisted of coding tasks/programs that you can keep trying until they're correct. I appreciated that. Most of your learning was through Zybooks."
+                    },
+                    {
+                        "rating": 3.0,
+                        "difficulty": 4.0,
+                        "text": "Professor Seaman very clearly knows what she is talking about and is very knowledgeable in the subject. The class is very lecture heavy and with so many topics, it's very easy to get behind. Although attendance is not recorded, if you miss a class, it is so so so easy to fall behind. Tests are pretty hard with about 30-40% of the class failing."
+                    },
+                    {
+                        "rating": 3.0,
+                        "difficulty": 4.0,
+                        "text": "you could get the code completely right and she still will give you 10 points for it and you fail the test"
+                    }
+                ]
+            },
+            {
+                "course_id": "CS2308",
+                "reviews": [
+                    {
+                        "rating": 4.0,
+                        "difficulty": 3.0,
+                        "text": "Jill Seaman is an average professor. Do as she says and you'll do well. She drops a few grades and allows group work on quizzes, which helps. Sometimes her quiz questions are hard to understand at first, but they make sense later. If you pay attention in class and review her slides, you'll do fine on exams and the final. She is blunt, not terrible."
+                    },
+                    {
+                        "rating": 3.0,
+                        "difficulty": 4.0,
+                        "text": "I mean, good professor, I personally did struggle, though. It ended up decent, but I learned CSII."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 2.0,
+                        "text": "Standard intro coding class: fair number of programming assignments, but adequate time and instruction given. What tests cover is clearly stated and all gone over in class lectures (but reading the textbook is necessary for greater understanding--it's an interactive online textbook)."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 1.0,
+                        "text": "I took CS 1 and 2 with her and got A's in both. I wish she taught other courses too because I'd definitely take them with her. She's an awesome professor!"
+                    },
+                    {
+                        "rating": 2.0,
+                        "difficulty": 1.0,
+                        "text": "Very easy but very boring. Weekly quizzes where you code on paper which makes no sense, and weekly coding assignments are longer than needed to ensure students are learning."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "professor_name": "Edwin Vargas-Garzon",
+        "courses_taught": [
+            "CS1428"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS1428",
+                "reviews": [
+                    {
+                        "rating": 1.0,
+                        "difficulty": 3.0,
+                        "text": "This professor doesn't know what he is teaching. He is very strict in exams. He is sometimes teaching wrong too. You may get A but you will never actually learn in his class."
+                    },
+                    {
+                        "rating": 2.0,
+                        "difficulty": 4.0,
+                        "text": "Lectures were pretty boring, and the classes never felt interesting. I didn't really learn much, and the exams were confusing, with unclear instructions that made them harder than they needed to be. Overall, it wasn't the best experience, and I felt like there could've been more engagement and clarity throughout the course."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 3.0,
+                        "text": "This professor isn't good, he doesn't follow any sort of schedule at all or doesn't come to class with any material either. He will go over pseudocode and how to draw graphs to plan your code but that's about it. Also you won't really ever know your grade until after the semester ends. overall get another professor if possible or save your money."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 4.0,
+                        "text": "TBH I didn't even know what tags to put cause non match him. he always shows up late to class (if he even shows up), and when he does - he talks about his friends from an AI company or his Ph.D. paper from 30 years ago instead of teaching. if you want to learn, take ANYONE ELSE, or go on YouTube... you'll get more value for your time and money."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "professor_name": "Ziliang Zong",
+        "courses_taught": [
+            "CS1428",
+            "CS2308"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS1428",
+                "reviews": [
+                    {
+                        "rating": 5.0,
+                        "difficulty": 4.0,
+                        "text": "Dr. Zong is a great teacher who truly wants his students to succeed. If you're taking CS I just for credit, he might not be the best fit. However, if you're eager to learn, he's perfect. His class is challenging, but his assignment, providing practical experience. He regularly checks in with students to ensure they understand everything."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 1.0,
+                        "text": "The trashcan in the corner of the room deserved my money more than he did. At least the trashcan did something useful. Take someone else (like Seamen), good luck."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 1.0,
+                        "text": "Its funny how aweful this professor is, not even laughable. In his own words 'I care about my paycheck.' He lacks all teaching skills. Does not care if you were in an car accident the day of a Test (you wont be able to retake it). Even if this professor if your LAST choice, wait till next semester for another professor.This guy only likes the money"
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 2.0,
+                        "text": "DO NOT TAKE THIS ONE. It seem like Txst had no one else to employ other than him. He expects you to code only in his way, no other way. Even if you were in a coding class before his. He is only after your money, and not your skill."
+                    }
+                ]
+            },
+            {
+                "course_id": "CS2308",
+                "reviews": [
+                    {
+                        "rating": 2.0,
+                        "difficulty": 3.0,
+                        "text": "This class was heavily focused on zybooks. Not much else is gone over in-depth in class. He can be hard to understand and usually assumes for a lot of the material that we should already know it. Nonetheless, if you do the assigned work its not too hard to pass the class."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 5.0,
+                        "text": "DO NOT TAKE HIM! It is the end of the semester and I have a 75% in the gradebook and he based my final grade off of my final! I failed my final and he ended up giving me a D! The grade that you see in the gradebook in his class is not accurate! The worst part about all of this is that he didn't even put my final in the gradebook!"
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 2.0,
+                        "text": "He does NOT like to teach. He will say word from word from a power point. He isn't able to clarify his thinking when showing the class how he writes his code. Most kids in my class transferred out during the first week. We went from a full classroom to 15 students. He expects you to only use what he taught you, and not what you can learned online."
+                    },
+                    {
+                        "rating": 1.0,
+                        "difficulty": 2.0,
+                        "text": "He will try and find any way possible for your work, to be identical to someone else's, for Plagiarism. I am serious, he will try to find the most little thing that resembles or barely correlates each other and flag it for plagiarism. He cannot provide extra scenario's for problems, he expects you to KNOW EVERYTHING at first glance. DO NOT TAKE HIM"
+                    },
+                    {
+                        "rating": 4.0,
+                        "difficulty": 4.0,
+                        "text": "Zong was a good professor. He kinda hands the class off to Zybooks to learn but he explains well in class. He's a little condescending but he means well. The first two exams are online and easy. The final is EXTREMELY long and only difficult because it's 6 problems and all whiteboard code."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "professor_name": "Tanzima Islam",
+        "courses_taught": [
+            "CS2308"
+        ],
+        "course_reviews": [
+            {
+                "course_id": "CS2308",
+                "reviews": [
+                    {
+                        "rating": 2.0,
+                        "difficulty": 1.0,
+                        "text": "She seemed like a good professor at first, and online exams were convenient. But by the end of the semester, that changed. I politely asked about her grading policy since I had a 79.32 and was trying to maintain an academic scholarship, and she never responded. Tough grader, poor support, and poor communication."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "Tanzima is the best. Her lectures are super involved and clear, and she wants students to ask questions and she makes sure you understand and are satisfied before she moves on. Super sweet and always willing to help, encouraging students to attend office hours. So far this has been my best professor for comp sci at TXST."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 3.0,
+                        "text": "Dr. Tanzima encourages participation and provides helpful video lectures. She is very caring and lets you know exactly what you should study. Participation assignments can be worked on with other students and take up the largest % of grade. Overall enjoyable but difficult course that you will work for to get a good grade in."
+                    },
+                    {
+                        "rating": 5.0,
+                        "difficulty": 4.0,
+                        "text": "She's an amazing professor, she genuinely cares about you. She gives good feedback, and her teaching is pretty comprehensive."
+                    }
+                ]
+            }
+        ]
+    }
+]
